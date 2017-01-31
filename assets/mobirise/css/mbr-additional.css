@@ -479,28 +479,37 @@ h6,
   background-color: #ffffff;
 }
 #header2-0 .mbr-section-title {
-  color: #000000;
+  color: #ffffff;
 }
 #header2-0 .mbr-section-text {
-  color: #232323;
+  color: #ffffff;
   text-align: right;
 }
 #features4-f .card-subtitle {
-  color: #bcbcbc;
+  color: #5b5555;
 }
 #features4-f .iconbox {
-  background-color: #c1c1c1;
-  border-color: #c1c1c1;
+  background-color: #28324e;
+  border-color: #28324e;
 }
 #features4-f H4 {
-  color: #ffffff;
+  color: #000000;
 }
 #features4-f P {
-  color: #ffffff;
+  color: #000000;
 }
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
+}
+#header3-5 H3 {
+  color: #ffffff;
+}
+#content6-g P {
+  color: #ffffff;
+}
+#content6-g DIV {
+  color: #ffffff;
 }
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
