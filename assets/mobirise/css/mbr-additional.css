@@ -482,14 +482,21 @@ h6,
   color: #000000;
 }
 #header2-0 .mbr-section-text {
-  color: #000000;
+  color: #232323;
+  text-align: right;
 }
-#features4-2 .card-subtitle {
+#features4-f .card-subtitle {
   color: #bcbcbc;
 }
-#features4-2 .iconbox {
+#features4-f .iconbox {
   background-color: #c1c1c1;
   border-color: #c1c1c1;
+}
+#features4-f H4 {
+  color: #ffffff;
+}
+#features4-f P {
+  color: #ffffff;
 }
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
