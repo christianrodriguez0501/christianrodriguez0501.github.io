@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 25,
+    "uniqCompNum": 26,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -138,7 +138,10 @@
             },
             ".mbr-section-text": {
               "color": "#ffffff",
-              "text-align": "left"
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "19px"
             }
           },
           "_anchor": "header2-0",
@@ -146,7 +149,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1122.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -154,7 +157,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.4",
             "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
@@ -194,11 +197,14 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#28324e",
-              "border-color": "#28324e"
+              "background-color": "#000000",
+              "border-color": "#000000"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "15px"
             },
             "H4": {
               "color": "#ffffff"
@@ -210,13 +216,13 @@
           "_name": "features4",
           "_anchor": "features4-l",
           "_params": {
-            "iconsBgColor": "#28324e",
+            "iconsBgColor": "#000000",
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#475577",
+            "bgColor": "#72767f",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -245,7 +251,7 @@
             }
           },
           "title1": "Business",
-          "subtitle1": "Technology Business",
+          "subtitle1": "",
           "caption1": "I want to run a Tech. business having to with building websites and advertising people by putting their company or business out there in the world.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
@@ -261,7 +267,7 @@
             }
           },
           "title2": "Teacher",
-          "subtitle2": "One of Bootstrap 4's big points",
+          "subtitle2": "",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -277,7 +283,7 @@
             }
           },
           "title3": "Graphic Designer",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "subtitle3": "",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -293,7 +299,7 @@
             }
           },
           "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
+          "subtitle4": "",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
@@ -342,9 +348,9 @@
           "_name": "header3",
           "_anchor": "header3-n",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": 1,
-            "bgColor": "#28324e",
+            "bgColor": "#475577",
             "showMeta": true
           },
           "title": "Biography Continued",
@@ -355,15 +361,20 @@
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-o",
+          "_anchor": "content2-p",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#28324e"
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#475577"
           },
-          "text": "<blockquote><p><font color=\"#ffffff\" face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>Technology you use impresses no one, the experience you create with it is everything</i></span></font></p><p><font color=\"#ffffff\" face=\"Lora, serif\"><span style=\"line-height: 26px;\"><i>- Sean Gerety</i></span></font></p></blockquote>",
+          "text": "<blockquote><b>\"Technology you use impresses no one, the experience you create with it is everything\"</b></blockquote><blockquote><b>- Sean Gerety</b></blockquote>",
           "_styles": {
             "BLOCKQUOTE": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "B": {
               "color": "#ffffff"
             }
           }
@@ -373,25 +384,32 @@
             "Theme"
           ],
           "_name": "content6",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
           "_anchor": "content6-m",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#28324e"
+            "paddingBottom": "1",
+            "bgColor": "#475577"
           },
           "text1": "I am a student at Miami Arts Studio currently in 9th grade working the technology magnet at my school and I am 15 years old. I've been working with technology since I was in 6th grade, but even before that I have always had a passion for technology. I like to work with all kinds of tech like phones, computers, tablets and things in that nature. I think technology has a big impact in the world around us and lately technology has become a big part of our lives.&nbsp;<br><p><br></p>",
-          "text2": "<p>That is why I want to have a future job involving tech. because it has such a wide variety of jobs that I can go into. The job that most interests me the most is business because I want to run my own future business so I can be my own boss. Aside from tech, I also like to play baseball, ride bike in my neighborhood,&nbsp;</p>",
-          "_styles": {
-            "DIV": {
-              "color": "#ffffff"
-            }
-          }
+          "text2": "<p>That is why I want to have a future job involving tech. because it has such a wide variety of jobs that I can go into. The job that most interests me the most is business because I want to run my own future business so I can be my own boss. Aside from tech, I also like to play baseball, ride bike in my neighborhood,&nbsp;</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": "1",
@@ -423,12 +441,7 @@
           },
           "text1": "<strong>Address</strong><br>\n13381 Sw 27th St<br>Miami, FL 33175",
           "text2": "<strong>Contacts</strong><br>\nEmail: crodriguez@miamiartsstudio.com<br>\nPhone: 786-659-2078<br><br>",
-          "text3": "",
-          "_styles": {
-            "STRONG": {
-              "color": "#efefef"
-            }
-          }
+          "text3": ""
         }
       ]
     },
@@ -602,6 +615,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts1-7",
           "_params": {
             "paddingTop": "1",
@@ -633,12 +651,7 @@
           },
           "text1": "<strong>Address</strong><br>\n13381 Sw 27th St<br>Miami, FL 33175",
           "text2": "<strong>Contacts</strong><br>\nEmail: crodriguez@miamiartsstudio.com<br>\nPhone: 786-659-2078<br><br>",
-          "text3": "",
-          "_styles": {
-            "STRONG": {
-              "color": "#efefef"
-            }
-          }
+          "text3": ""
         }
       ]
     },
@@ -808,6 +821,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts1-a",
           "_params": {
             "paddingTop": "1",
@@ -835,12 +853,7 @@
           },
           "text1": "<strong>Address</strong><br>\n13381 Sw 27th St<br>Miami, FL 33175",
           "text2": "<strong>Contacts</strong><br>\nEmail: crodriguez@miamiartsstudio.com<br>\nPhone: 786-659-2078<br><br>",
-          "text3": "",
-          "_styles": {
-            "STRONG": {
-              "color": "#efefef"
-            }
-          }
+          "text3": ""
         }
       ]
     },
@@ -947,6 +960,11 @@
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#efefef"
+            }
+          },
           "_anchor": "contacts1-e",
           "_params": {
             "paddingTop": "1",
@@ -974,12 +992,7 @@
           },
           "text1": "<strong>Address</strong><br>\n13381 Sw 27th St<br>Miami, FL 33175",
           "text2": "<strong>Contacts</strong><br>\nEmail: crodriguez@miamiartsstudio.com<br>\nPhone: 786-659-2078<br><br>",
-          "text3": "",
-          "_styles": {
-            "STRONG": {
-              "color": "#efefef"
-            }
-          }
+          "text3": ""
         }
       ]
     }

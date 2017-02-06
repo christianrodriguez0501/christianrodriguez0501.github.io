@@ -1,6 +1,11 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
 
 
 
@@ -483,17 +488,21 @@ h6,
 }
 #header2-0 .mbr-section-text {
   color: #ffffff;
-  text-align: left;
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 19px;
 }
 #features4-l .card-subtitle {
   color: #bcbcbc;
 }
 #features4-l .iconbox {
-  background-color: #28324e;
-  border-color: #28324e;
+  background-color: #000000;
+  border-color: #000000;
 }
 #features4-l P {
   color: #ffffff;
+  font-family: 'Bitter', serif;
+  font-size: 15px;
 }
 #features4-l H4 {
   color: #ffffff;
@@ -505,11 +514,16 @@ h6,
 #header3-n H3 {
   color: #ffffff;
 }
-#content2-o BLOCKQUOTE {
+#content2-p BLOCKQUOTE {
+  color: #000000;
+  font-family: 'Lora', serif;
+}
+#content2-p B {
   color: #ffffff;
 }
 #content6-m DIV {
   color: #ffffff;
+  font-family: 'Lora', serif;
 }
 #contacts1-7 STRONG {
   color: #efefef;
