@@ -1,11 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
-
-
 
 
 
@@ -421,7 +416,7 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
-  font-size: 20px;
+  font-size: 18px;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -431,11 +426,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .link {
-  font-size: 0.8rem;
+  font-size: 0.75rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.812rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -484,56 +479,14 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
-#header2-0 .mbr-section-title {
+#header1-q .mbr-section-title {
   color: #ffffff;
 }
-#header2-0 .mbr-section-text {
-  color: #ffffff;
-  text-align: center;
-  font-family: 'Lora', serif;
-  font-size: 19px;
-}
-#header2-0 H3 {
-  text-align: center;
-}
-#header2-0 P {
-  text-align: center;
-}
-#features4-l .card-subtitle {
-  color: #bcbcbc;
-}
-#features4-l .iconbox {
-  background-color: #ffffff;
-  border-color: #ffffff;
-}
-#features4-l P {
-  color: #ffffff;
-  font-family: 'Bitter', serif;
-  font-size: 15px;
-}
-#features4-l H4 {
+#contacts3-t STRONG {
   color: #ffffff;
 }
-#header3-n .mbr-section-title,
-#header3-n .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-n H3 {
+#contacts3-t H4 {
   color: #ffffff;
-}
-#content2-p BLOCKQUOTE {
-  color: #000000;
-  font-family: 'Lora', serif;
-}
-#content2-p B {
-  color: #ffffff;
-}
-#content6-m DIV {
-  color: #ffffff;
-  font-family: 'Lora', serif;
-}
-#contacts1-7 STRONG {
-  color: #efefef;
 }
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
@@ -609,6 +562,10 @@ h6,
 }
 #content5-8 DIV {
   color: #ffffff;
+  text-align: center;
+}
+#content5-8 .mbr-section-title {
+  text-align: center;
 }
 #contacts1-7 STRONG {
   color: #efefef;
