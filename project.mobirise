@@ -603,8 +603,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -641,13 +641,13 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/star-wars-2000x1666-800x666.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-wars-2000x1666.jpg",
+                "caption": "Star Wars",
                 "active": true
               }
             ],
-            "spacing": 1,
+            "spacing": "0",
             "showText": true,
             "filter": false,
             "bgColor": "#000000",
