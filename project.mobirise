@@ -647,7 +647,7 @@
                 "active": true
               }
             ],
-            "spacing": "0",
+            "spacing": "1",
             "showText": true,
             "filter": false,
             "bgColor": "#000000",
