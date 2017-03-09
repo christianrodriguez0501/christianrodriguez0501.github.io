@@ -53,12 +53,6 @@ h6,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
 }
-.btn {
-  border-radius: 1.6em;
-}
-.mbr-subscribe .btn {
-  border-radius: 1.6em !important;
-}
 .btn-sm,
 .lead a,
 .lead blockquote,
@@ -433,11 +427,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .link {
-  font-size: 0.65rem;
+  font-size: 0.6rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.704rem;
+  font-size: 0.650rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -741,10 +735,10 @@ h6,
   color: #fff;
 }
 #content5-22 P {
-  color: #ffffff;
+  color: #000000;
 }
 #content5-22 .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
 }
 #features4-1d .card-subtitle {
   color: #bcbcbc;
@@ -778,5 +772,79 @@ h6,
   color: #e71f1f;
 }
 #contacts4-1f STRONG {
+  color: #ffffff;
+}
+#menu-29 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-29 .navbar-caption {
+  color: #ffffff;
+  font-size: 20px;
+}
+#menu-29 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-29 .link,
+#menu-29 .dropdown-item {
+  color: #ffffff;
+}
+#menu-29 .link {
+  font-size: 0.65rem;
+}
+#menu-29 .dropdown-item,
+#menu-29 .nav-dropdown-sm .link {
+  font-size: 0.704rem;
+}
+#menu-29 .link:hover,
+#menu-29 .dropdown-item:hover,
+#menu-29 .link:focus,
+#menu-29 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-29 .link[aria-expanded="true"],
+#menu-29 .dropdown-menu {
+  background: #000000;
+}
+#menu-29 .nav-dropdown-sm .link:focus,
+#menu-29 .nav-dropdown-sm .link:hover,
+#menu-29 .nav-dropdown-sm .dropdown-item:focus,
+#menu-29 .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-29 .navbar,
+#menu-29 .nav-dropdown-sm,
+#menu-29 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-29 .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-29 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-29 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-29 .bg-color.transparent.opened .link:hover,
+#menu-29 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-29 .link[aria-expanded="true"],
+#menu-29 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-29.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-29 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-29 .close-icon::before,
+#menu-29 .close-icon::after {
+  background-color: #ffffff;
+}
+#contacts4-2d SPAN {
+  color: #e71f1f;
+}
+#contacts4-2d STRONG {
   color: #ffffff;
 }
