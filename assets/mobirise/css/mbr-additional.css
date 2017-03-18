@@ -842,6 +842,10 @@ h6,
 #menu-29 .close-icon::after {
   background-color: #ffffff;
 }
+#header3-2j .mbr-section-title,
+#header3-2j .mbr-section-subtitle {
+  text-align: center;
+}
 #contacts4-2d SPAN {
   color: #e71f1f;
 }
