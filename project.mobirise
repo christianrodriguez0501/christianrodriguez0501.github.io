@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Current Work.html",
     "versionFirst": "3.10.4",
     "uniqCompNum": 92,
     "versionPublish": "3.11.1",
@@ -22,7 +22,8 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       }
-    }
+    },
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -1819,6 +1820,56 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/christian-rodriguez-layer-psd-build-9-2000x1627-800x650.jpg",
                 "image": "@PROJECT_PATH@/assets/images/christian-rodriguez-layer-psd-build-9-2000x1627.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/christian-rodriguez-layer-psd-build-10-2000x1627-800x650.jpg",
+                "image": "@PROJECT_PATH@/assets/images/christian-rodriguez-layer-psd-build-10-2000x1627.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/christian-rodriguez-layer-psd-build-11-2000x1627-800x650.jpg",
+                "image": "@PROJECT_PATH@/assets/images/christian-rodriguez-layer-psd-build-11-2000x1627.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/christian-rodriguez-layer-psd-build-12-2000x1627-800x650.jpg",
+                "image": "@PROJECT_PATH@/assets/images/christian-rodriguez-layer-psd-build-12-2000x1627.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/christian-rodriguez-layer-psd-build-13-2000x1627-800x650.jpg",
+                "image": "@PROJECT_PATH@/assets/images/christian-rodriguez-layer-psd-build-13-2000x1627.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/christian-rodriguez-layer-psd-build-14-2000x1627-800x650.jpg",
+                "image": "@PROJECT_PATH@/assets/images/christian-rodriguez-layer-psd-build-14-2000x1627.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
