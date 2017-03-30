@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 99,
+    "uniqCompNum": 109,
     "versionPublish": "3.11.1",
     "name": "My Site",
     "theme": {
@@ -18,7 +18,7 @@
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
-        "isRoundedButtons": false,
+        "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false
       }
@@ -44,7 +44,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "18px"
+              "font-size": "14px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -105,7 +107,7 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -129,8 +131,8 @@
               "color": "#ffffff"
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Christian <br>Rodriguez</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">INTRODUCTION/BIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Current Work.html\">Current Work&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">All Work<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Community Member</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Current Work.html\">Current Work</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">INTRODUCTION/BIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Current Work.html\">Current Work&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">All Work<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Community Member</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Current Work.html\">Current Work</a></li>"
         },
         {
           "_tags": [
@@ -141,7 +143,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": true,
+            "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1123.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
@@ -149,17 +151,22 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
+            "overlay": true,
+            "overlayOpacity": "0.4",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
-            "showText": true,
+            "showText": false,
             "showButtons": true
           },
           "title": "Christian A. Rodriguez",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Welcome to the Future<br></a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Biography</a> ",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
@@ -173,27 +180,50 @@
           "_name": "msg-box8",
           "_anchor": "msg-box8-2n",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aa9119521246a38953841210c715f627-2000x1334.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#222",
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000",
             "showTitle": false,
             "showText": false,
-            "showButton": false
+            "showButton": true
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"#\" data-toolbar=\"-mbrBtnMove\">INTRODUCTION TO ME</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2y",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#000000",
+            "showMeta": true
+          },
+          "title": "Previews of My Work",
+          "meta": ""
         },
         {
           "_inherit": "gallery1",
@@ -202,7 +232,7 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "0",
             "paddingBottom": "2",
             "images": [
               {
@@ -252,7 +282,7 @@
             "bgColor": "#000000",
             "filterBgColor": true,
             "fullWidth": false,
-            "showBullets": true
+            "showBullets": false
           },
           "_anchor": "gallery3-u",
           "articleLayout": false,
@@ -263,9 +293,9 @@
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-2o",
+          "_anchor": "msg-box1-2s",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -299,10 +329,10 @@
             "Theme"
           ],
           "_name": "social-buttons4",
-          "_anchor": "social-buttons4-1t",
+          "_anchor": "social-buttons4-30",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
@@ -312,38 +342,8 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "FOLLOW ME",
-          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-2p",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#dadada",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
-            "showText": false,
-            "showTitle": false
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "PRE MADE BLOCKS"
+          "text": "FOLLOW US",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      "
         },
         {
           "_tags": [
@@ -352,9 +352,12 @@
           "_name": "contacts4",
           "_styles": {
             "SPAN": {
-              "color": "#e71f1f"
+              "color": "#000000"
             },
             "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
               "color": "#ffffff"
             }
           },
@@ -362,17 +365,17 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/916b6403c73fcce52ba14d079a14d018-2000x1500.jpg",
             "bgColor": "#000000",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>13381 SW 27th St<br>Miami, Fl 33175<br><br><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\"><br></span><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\n<br>Email: crodriguez@miamiartsstudio.com<br>\nPhone: 786-659-2078<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"introduction.html\">Introduction</a></li><li>Applications - Photoshop/Illustrator &nbsp;</li><li>Credentials</li><li>Refrences</li></ul>",
+          "text2": "",
           "form": {
             "title": "MESSAGE",
             "action": "crodriguez@miamiartsstudio.com",
@@ -439,7 +442,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "14px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -448,10 +453,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.65rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.704rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -500,7 +505,7 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": false
           },
@@ -524,8 +529,8 @@
               "color": "#ffffff"
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Christian <br>Rodriguez</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">INTRODUCTION/BIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Community Member</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Current Work.html\">Current Work</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">INTRODUCTION/BIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Current Work.html\">Current Work&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">All Work<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Community Member</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Current Work.html\">Current Work</a></li>"
         },
         {
           "_styles": {
@@ -662,9 +667,12 @@
           "_name": "contacts4",
           "_styles": {
             "SPAN": {
-              "color": "#e71f1f"
+              "color": "#000000"
             },
             "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
               "color": "#ffffff"
             }
           },
@@ -672,17 +680,17 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/916b6403c73fcce52ba14d079a14d018-2000x1500.jpg",
             "bgColor": "#101010",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>13381 SW 27th St<br>Miami, Fl 33175<br><br><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\"><br></span><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\n<br>Email: crodriguez@miamiartsstudio.com<br>\nPhone: 786-659-2078<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"introduction.html\">Introduction</a></li><li>Applications - Photoshop/Illustrator &nbsp;</li><li>Credentials</li><li>Refrences</li></ul>",
+          "text2": "",
           "form": {
             "title": "MESSAGE",
             "action": "crodriguez@miamiartsstudio.com",
@@ -725,7 +733,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#101010",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -749,7 +757,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "14px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -758,10 +768,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.65rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.704rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -810,7 +820,7 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": false
           },
@@ -834,8 +844,8 @@
               "color": "#ffffff"
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Christian <br>Rodriguez</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">INTRODUCTION/BIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Community Member</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Current Work.html\">Current Work</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">INTRODUCTION/BIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Current Work.html\">Current Work&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">All Work<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Community Member</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Current Work.html\">Current Work</a></li>"
         },
         {
           "_styles": {
@@ -968,9 +978,12 @@
           "_name": "contacts4",
           "_styles": {
             "SPAN": {
-              "color": "#e71f1f"
+              "color": "#000000"
             },
             "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
               "color": "#ffffff"
             }
           },
@@ -978,17 +991,17 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/916b6403c73fcce52ba14d079a14d018-2000x1500.jpg",
             "bgColor": "#101010",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>13381 SW 27th St<br>Miami, Fl 33175<br><br><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\"><br></span><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\n<br>Email: crodriguez@miamiartsstudio.com<br>\nPhone: 786-659-2078<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"introduction.html\">Introduction</a></li><li>Applications - Photoshop/Illustrator &nbsp;</li><li>Credentials</li><li>Refrences</li></ul>",
+          "text2": "",
           "form": {
             "title": "MESSAGE",
             "action": "crodriguez@miamiartsstudio.com",
@@ -1031,7 +1044,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#101010",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1058,7 +1071,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "14px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1067,10 +1082,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.65rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.704rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1122,7 +1137,7 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -1146,8 +1161,8 @@
               "color": "#ffffff"
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Christian <br>Rodriguez</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">INTRODUCTION/BIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">Adobe Photoshop</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Community Member</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Current Work.html\">Current Work</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">INTRODUCTION/BIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Current Work.html\">Current Work&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">All Work<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Community Member</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Current Work.html\">Current Work</a></li>"
         },
         {
           "_styles": {
@@ -1167,7 +1182,7 @@
           "_name": "content5",
           "_anchor": "content5-22",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
@@ -1186,36 +1201,6 @@
           },
           "title": "Biography<br>",
           "caption": "<p>I am a student at Miami Arts Studio currently in 9th grade working the technology magnet at my school and I am 15 years old. I've been working with technology since I was in 6th grade, but even before that I have always had a passion for technology. I like to work with all kinds of tech like phones, computers, tablets and things in that nature. I think technology has a big impact in the world around us and lately technology has become a big part of our lives.That is why I want to have a future job involving tech. because it has such a wide variety of jobs that I can go into. The job that most interests me the most is business because I want to run my own future business so I can be my own boss. Aside from tech, I also like to play baseball and riding bike in my neighborhood. &nbsp;</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-28",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2b2b",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
-            "showText": false,
-            "showTitle": false
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "PRE MADE BLOCKS"
         },
         {
           "_styles": {
@@ -1248,7 +1233,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#454545",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1408,39 +1393,9 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "2",
-            "bgColor": "#454545"
+            "bgColor": "#000000"
           },
           "text": "<blockquote><b>\"Technology you use impresses no one, the experience you create with it is everything\"&nbsp;</b><b style=\"font-size: 1.09rem; line-height: 1.5;\">- Sean Gerety</b></blockquote>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-27",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2b2b",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
-            "showText": false,
-            "showTitle": false
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "PRE MADE BLOCKS"
         },
         {
           "_tags": [
@@ -1454,7 +1409,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#101010",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1463,59 +1418,18 @@
           "text": "Copyright (c) Christian Rodriguez 2017"
         },
         {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form2",
-          "_anchor": "form2-25",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#101010",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
-          },
-          "title": "SUBSCRIBE FORM",
-          "subtitle": "Subscribe to our Newsletter",
-          "form": {
-            "action": "crodriguez@miamiartsstudio.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "Enter Your Email Address..."
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts4",
           "_styles": {
             "SPAN": {
-              "color": "#e71f1f"
+              "color": "#000000"
             },
             "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
               "color": "#ffffff"
             }
           },
@@ -1523,17 +1437,17 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/916b6403c73fcce52ba14d079a14d018-2000x1500.jpg",
             "bgColor": "#101010",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>13381 SW 27th St<br>Miami, Fl 33175<br><br><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\"><br></span><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\n<br>Email: crodriguez@miamiartsstudio.com<br>\nPhone: 786-659-2078<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"introduction.html\">Introduction</a></li><li>Applications - Photoshop/Illustrator &nbsp;</li><li>Credentials</li><li>Refrences</li></ul>",
+          "text2": "",
           "form": {
             "title": "MESSAGE",
             "action": "crodriguez@miamiartsstudio.com",
@@ -1580,7 +1494,9 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "20px"
+              "font-size": "14px",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1589,10 +1505,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.65rem"
+              "font-size": "0.6rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.704rem"
+              "font-size": "0.650rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1641,7 +1557,7 @@
             "transparent": false,
             "sticky": true,
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
             "hideButtons": true
           },
@@ -1665,8 +1581,8 @@
               "color": "#ffffff"
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Christian <br>Rodriguez</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">INTRODUCTION/BIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Current Work.html\">Current Work&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">All Work<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Community Member</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Current Work.html\">Current Work</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">INTRODUCTION/BIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Current Work.html\">Current Work&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">All Work<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Community Member</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Current Work.html\">Current Work</a></li>"
         },
         {
           "_styles": {
@@ -1858,9 +1774,12 @@
           "_name": "contacts4",
           "_styles": {
             "SPAN": {
-              "color": "#e71f1f"
+              "color": "#000000"
             },
             "STRONG": {
+              "color": "#ffffff"
+            },
+            "P": {
               "color": "#ffffff"
             }
           },
@@ -1868,17 +1787,17 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/916b6403c73fcce52ba14d079a14d018-2000x1500.jpg",
             "bgColor": "#101010",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000"
           },
           "text1": "<strong>Address</strong><br>13381 SW 27th St<br>Miami, Fl 33175<br><br><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\"><br></span><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contacts</span><br>\n<br>Email: crodriguez@miamiartsstudio.com<br>\nPhone: 786-659-2078<br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"introduction.html\">Introduction</a></li><li>Applications - Photoshop/Illustrator &nbsp;</li><li>Credentials</li><li>Refrences</li></ul>",
+          "text2": "",
           "form": {
             "title": "MESSAGE",
             "action": "crodriguez@miamiartsstudio.com",
@@ -1921,7 +1840,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#101010",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,

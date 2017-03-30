@@ -1,7 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+
 
 
 
@@ -52,6 +54,12 @@ h6,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
+}
+.btn {
+  border-radius: 1.6em;
+}
+.mbr-subscribe .btn {
+  border-radius: 1.6em !important;
 }
 .btn-sm,
 .lead a,
@@ -417,7 +425,8 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
-  font-size: 18px;
+  font-size: 14px;
+  font-family: 'Droid Sans', sans-serif;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -480,26 +489,41 @@ h6,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
 }
+#header1-2q .mbr-section-title {
+  color: #ffffff;
+}
 #msg-box8-2n .mbr-section-title,
 #msg-box8-2n p {
   color: #fff;
 }
-#social-buttons4-1t .mbr-section-title,
-#social-buttons4-1t .btn-social {
+#header3-2y .mbr-section-title,
+#header3-2y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2y H3 {
+  color: #ffffff;
+}
+#social-buttons4-30 .mbr-section-title,
+#social-buttons4-30 .btn-social {
   color: #fff;
 }
 #contacts4-1f SPAN {
-  color: #e71f1f;
+  color: #000000;
 }
 #contacts4-1f STRONG {
   color: #ffffff;
 }
+#contacts4-1f P {
+  color: #ffffff;
+}
+
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-6 .navbar-caption {
   color: #ffffff;
-  font-size: 20px;
+  font-size: 14px;
+  font-family: 'Droid Sans', sans-serif;
 }
 #menu-6 .navbar-toggler {
   color: #ffffff;
@@ -509,11 +533,11 @@ h6,
   color: #ffffff;
 }
 #menu-6 .link {
-  font-size: 0.65rem;
+  font-size: 0.6rem;
 }
 #menu-6 .dropdown-item,
 #menu-6 .nav-dropdown-sm .link {
-  font-size: 0.704rem;
+  font-size: 0.650rem;
 }
 #menu-6 .link:hover,
 #menu-6 .dropdown-item:hover,
@@ -570,17 +594,22 @@ h6,
   text-align: center;
 }
 #contacts4-1f SPAN {
-  color: #e71f1f;
+  color: #000000;
 }
 #contacts4-1f STRONG {
   color: #ffffff;
 }
+#contacts4-1f P {
+  color: #ffffff;
+}
+
 #menu-d .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-d .navbar-caption {
   color: #ffffff;
-  font-size: 20px;
+  font-size: 14px;
+  font-family: 'Droid Sans', sans-serif;
 }
 #menu-d .navbar-toggler {
   color: #ffffff;
@@ -590,11 +619,11 @@ h6,
   color: #ffffff;
 }
 #menu-d .link {
-  font-size: 0.65rem;
+  font-size: 0.6rem;
 }
 #menu-d .dropdown-item,
 #menu-d .nav-dropdown-sm .link {
-  font-size: 0.704rem;
+  font-size: 0.650rem;
 }
 #menu-d .link:hover,
 #menu-d .dropdown-item:hover,
@@ -651,11 +680,15 @@ h6,
   text-align: center;
 }
 #contacts4-1f SPAN {
-  color: #e71f1f;
+  color: #000000;
 }
 #contacts4-1f STRONG {
   color: #ffffff;
 }
+#contacts4-1f P {
+  color: #ffffff;
+}
+
 
 
 #menu-d .hide-buttons .nav-btn {
@@ -663,7 +696,8 @@ h6,
 }
 #menu-d .navbar-caption {
   color: #ffffff;
-  font-size: 20px;
+  font-size: 14px;
+  font-family: 'Droid Sans', sans-serif;
 }
 #menu-d .navbar-toggler {
   color: #ffffff;
@@ -673,11 +707,11 @@ h6,
   color: #ffffff;
 }
 #menu-d .link {
-  font-size: 0.65rem;
+  font-size: 0.6rem;
 }
 #menu-d .dropdown-item,
 #menu-d .nav-dropdown-sm .link {
-  font-size: 0.704rem;
+  font-size: 0.650rem;
 }
 #menu-d .link:hover,
 #menu-d .dropdown-item:hover,
@@ -758,24 +792,23 @@ h6,
 #content2-1b B {
   color: #ffffff;
 }
-#form2-25 .mbr-section-title {
-  color: #fff;
-}
-#form2-25 .mbr-section-subtitle {
-  color: #a0a0a0;
-}
 #contacts4-1f SPAN {
-  color: #e71f1f;
+  color: #000000;
 }
 #contacts4-1f STRONG {
   color: #ffffff;
 }
+#contacts4-1f P {
+  color: #ffffff;
+}
+
 #menu-29 .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-29 .navbar-caption {
   color: #ffffff;
-  font-size: 20px;
+  font-size: 14px;
+  font-family: 'Droid Sans', sans-serif;
 }
 #menu-29 .navbar-toggler {
   color: #ffffff;
@@ -785,11 +818,11 @@ h6,
   color: #ffffff;
 }
 #menu-29 .link {
-  font-size: 0.65rem;
+  font-size: 0.6rem;
 }
 #menu-29 .dropdown-item,
 #menu-29 .nav-dropdown-sm .link {
-  font-size: 0.704rem;
+  font-size: 0.650rem;
 }
 #menu-29 .link:hover,
 #menu-29 .dropdown-item:hover,
@@ -843,8 +876,11 @@ h6,
   text-align: center;
 }
 #contacts4-2d SPAN {
-  color: #e71f1f;
+  color: #000000;
 }
 #contacts4-2d STRONG {
+  color: #ffffff;
+}
+#contacts4-2d P {
   color: #ffffff;
 }
