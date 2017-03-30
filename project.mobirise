@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 96,
+    "uniqCompNum": 99,
     "versionPublish": "3.11.1",
     "name": "My Site",
     "theme": {
@@ -133,6 +133,35 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"introduction.html\">INTRODUCTION/BIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">APPLICATIONS</a><div class=\"dropdown-menu\"><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Photoshop</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Current Work.html\">Current Work&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Photoshop.html\">All Work<br></a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Adobe Illustrator.html\">Adobe Illustrator</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Mobirise</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Discuss IT 6</a></div></div></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">CREDENTIALS</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">REFERENCES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Teacher 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Family Friend</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Community Member</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Current Work.html\">Current Work</a></li>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2q",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1123.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Christian A. Rodriguez",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Welcome to the Future<br></a> "
+        },
+        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -167,78 +196,14 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "header1-q",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.5",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "Christian A. Rodriguez",
-          "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Welcome to the Future</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-26",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2b2b",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
-            "showText": false,
-            "showTitle": false
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "PRE MADE BLOCKS"
-        },
-        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -247,7 +212,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/robot-2000x1666-800x666.jpg",
                 "image": "@PROJECT_PATH@/assets/images/robot-2000x1666.jpg",
-                "caption": "Type caption here",
+                "caption": "Robot Layering",
                 "active": false
               },
               {
@@ -257,7 +222,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rolling-stones-2-2000x1666-800x666.jpg",
                 "image": "@PROJECT_PATH@/assets/images/rolling-stones-2-2000x1666.jpg",
-                "caption": "Type caption here",
+                "caption": "Rolling Stones Art Cover",
                 "active": false
               },
               {
@@ -267,7 +232,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/moon-1-2000x1666-800x666.jpg",
                 "image": "@PROJECT_PATH@/assets/images/moon-1-2000x1666.jpg",
-                "caption": "Type caption here",
+                "caption": "Moon Relayering",
                 "active": false
               },
               {
@@ -277,12 +242,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/final-masterpiece-2000x1666-800x666.jpg",
                 "image": "@PROJECT_PATH@/assets/images/final-masterpiece-2000x1666.jpg",
-                "caption": "Type caption here",
+                "caption": "Masterpiece Reproduction",
                 "active": true
               }
             ],
-            "spacing": "1",
-            "showText": false,
+            "spacing": "2",
+            "showText": true,
             "filter": false,
             "bgColor": "#000000",
             "filterBgColor": true,
@@ -298,14 +263,14 @@
             "Theme"
           ],
           "_name": "msg-box1",
-          "_anchor": "msg-box1-1v",
+          "_anchor": "msg-box1-2o",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2b2b",
+            "bgColor": "#dadada",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -341,14 +306,44 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#101010",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
           "text": "FOLLOW ME",
-          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCzZ_8hTveHHHe4fSgwJakUA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"#\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#dadada",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "inverse": false,
+            "showButtons": false,
+            "showText": false,
+            "showTitle": false
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "title": "PRE MADE BLOCKS"
         },
         {
           "_tags": [
@@ -370,7 +365,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#101010",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -420,7 +415,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#101010",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
