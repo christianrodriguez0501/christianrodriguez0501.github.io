@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "introduction.html",
     "versionFirst": "3.10.4",
     "uniqCompNum": 120,
     "versionPublish": "3.11.1",
@@ -1317,7 +1317,8 @@
             "P": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "20px"
+              "font-size": "19px",
+              "color": "#ffffff"
             }
           },
           "_anchor": "content2-1b",
