@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "versionFirst": "3.10.4",
     "uniqCompNum": 119,
     "versionPublish": "3.11.1",
@@ -166,7 +166,7 @@
           },
           "title": "Christian A. Rodriguez",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Biography</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> "
         },
         {
           "_styles": {
