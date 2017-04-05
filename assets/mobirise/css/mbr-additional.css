@@ -697,6 +697,7 @@ h6,
 
 
 
+
 #menu-d .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -797,6 +798,11 @@ h6,
 }
 #content2-1b B {
   color: #ffffff;
+  text-align: left;
+}
+#content2-1b P {
+  font-family: 'Lora', serif;
+  font-size: 20px;
 }
 #contacts4-1f SPAN {
   color: #ffffff;
