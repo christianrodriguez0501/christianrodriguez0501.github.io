@@ -477,7 +477,7 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #b8312f!important;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -507,15 +507,13 @@ h6,
 #social-buttons4-32 .btn-social {
   color: #fff;
 }
-#contacts4-1f SPAN {
-  color: #000000;
-}
-#contacts4-1f STRONG {
+#social-buttons4-32 .mbr-section-title {
   color: #ffffff;
 }
-#contacts4-1f P {
+#contacts4-3a STRONG {
   color: #ffffff;
 }
+
 
 #menu-6 .hide-buttons .nav-btn {
   display: none !important;
@@ -574,7 +572,7 @@ h6,
 }
 #menu-6 .link[aria-expanded="true"],
 #menu-6 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #b8312f!important;
 }
 #menu-6.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -594,14 +592,18 @@ h6,
   text-align: center;
 }
 #contacts4-1f SPAN {
-  color: #000000;
+  color: #ffffff;
 }
 #contacts4-1f STRONG {
   color: #ffffff;
 }
 #contacts4-1f P {
   color: #ffffff;
+  font-size: 14px;
+  text-align: left;
+  font-family: 'Lora', serif;
 }
+
 
 #menu-d .hide-buttons .nav-btn {
   display: none !important;
@@ -660,7 +662,7 @@ h6,
 }
 #menu-d .link[aria-expanded="true"],
 #menu-d .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #b8312f!important;
 }
 #menu-d.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -680,14 +682,18 @@ h6,
   text-align: center;
 }
 #contacts4-1f SPAN {
-  color: #000000;
+  color: #ffffff;
 }
 #contacts4-1f STRONG {
   color: #ffffff;
 }
 #contacts4-1f P {
   color: #ffffff;
+  font-size: 14px;
+  text-align: left;
+  font-family: 'Lora', serif;
 }
+
 
 
 
@@ -748,7 +754,7 @@ h6,
 }
 #menu-d .link[aria-expanded="true"],
 #menu-d .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #b8312f!important;
 }
 #menu-d.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -793,14 +799,18 @@ h6,
   color: #ffffff;
 }
 #contacts4-1f SPAN {
-  color: #000000;
+  color: #ffffff;
 }
 #contacts4-1f STRONG {
   color: #ffffff;
 }
 #contacts4-1f P {
   color: #ffffff;
+  font-size: 14px;
+  text-align: left;
+  font-family: 'Lora', serif;
 }
+
 
 #menu-29 .hide-buttons .nav-btn {
   display: none !important;
@@ -859,7 +869,7 @@ h6,
 }
 #menu-29 .link[aria-expanded="true"],
 #menu-29 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #b8312f!important;
 }
 #menu-29.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -876,11 +886,14 @@ h6,
   text-align: center;
 }
 #contacts4-2d SPAN {
-  color: #000000;
+  color: #ffffff;
 }
 #contacts4-2d STRONG {
   color: #ffffff;
 }
 #contacts4-2d P {
   color: #ffffff;
+  font-size: 14px;
+  text-align: left;
+  font-family: 'Lora', serif;
 }
