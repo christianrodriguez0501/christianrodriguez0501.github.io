@@ -1,8 +1,8 @@
 {
   "settings": {
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 119,
+    "uniqCompNum": 120,
     "versionPublish": "3.11.1",
     "name": "My Site",
     "theme": {
@@ -373,20 +373,20 @@
             "Theme"
           ],
           "_name": "contacts4",
-          "_anchor": "contacts4-3a",
+          "_anchor": "contacts4-3b",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/916b6403c73fcce52ba14d079a14d018-2000x1500.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000"
           },
-          "text1": "<strong>Address</strong><br>13381 Sw 27th St<br>33175 Miami, FL<br><br><span style=\"font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contact Me</span><br>\n<br>Email: crodriguez@miamiartsstudio.com<br>\nPhone: (786)-659-2078<br>",
+          "text1": "<p><strong>Address</strong><br>13381 Sw 27th St<br>Miami, FL 33175<br><br>\n<strong>Contact</strong>&nbsp;<strong>Me</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Email: crodriguez@miamiartsstudio.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone:(786)-659-2078</span><br></p><p><br></p>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>Refrences</li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -631,37 +631,47 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "footer1",
+          "_anchor": "footer1-s",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Christian Rodriguez 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts4",
           "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            },
             "STRONG": {
               "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "14px",
-              "text-align": "left",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
-          "_anchor": "contacts4-1f",
+          "_anchor": "contacts4-3b",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/916b6403c73fcce52ba14d079a14d018-2000x1500.jpg",
-            "bgColor": "#101010",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000"
           },
-          "text1": "<p><strong>Address</strong><br>13381 SW 27th St&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Miami, Fl 33175<br><br><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contact Me</span><br><br>Email: crodriguez@miamiartsstudio.com<br>\nPhone: 786-659-2078<br><br></p>",
-          "text2": "",
+          "text1": "<p><strong>Address</strong><br>13381 Sw 27th St<br>Miami, FL 33175<br><br>\n<strong>Contact</strong>&nbsp;<strong>Me</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Email: crodriguez@miamiartsstudio.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone:(786)-659-2078</span><br></p><p><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>Refrences</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "crodriguez@miamiartsstudio.com",
@@ -691,26 +701,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-s",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) Christian Rodriguez 2017"
         }
       ]
     },
@@ -916,37 +906,47 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "footer1",
+          "_anchor": "footer1-s",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Christian Rodriguez 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts4",
           "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            },
             "STRONG": {
               "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "14px",
-              "text-align": "left",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
-          "_anchor": "contacts4-1f",
+          "_anchor": "contacts4-3b",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/916b6403c73fcce52ba14d079a14d018-2000x1500.jpg",
-            "bgColor": "#101010",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000"
           },
-          "text1": "<p><strong>Address</strong><br>13381 SW 27th St&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Miami, Fl 33175<br><br><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contact Me</span><br><br>Email: crodriguez@miamiartsstudio.com<br>\nPhone: 786-659-2078<br><br></p>",
-          "text2": "",
+          "text1": "<p><strong>Address</strong><br>13381 Sw 27th St<br>Miami, FL 33175<br><br>\n<strong>Contact</strong>&nbsp;<strong>Me</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Email: crodriguez@miamiartsstudio.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone:(786)-659-2078</span><br></p><p><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>Refrences</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "crodriguez@miamiartsstudio.com",
@@ -976,26 +976,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-s",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) Christian Rodriguez 2017"
         }
       ]
     },
@@ -1374,35 +1354,25 @@
           ],
           "_name": "contacts4",
           "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            },
             "STRONG": {
               "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "14px",
-              "text-align": "left",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
-          "_anchor": "contacts4-1f",
+          "_anchor": "contacts4-3b",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/916b6403c73fcce52ba14d079a14d018-2000x1500.jpg",
-            "bgColor": "#101010",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000"
           },
-          "text1": "<p><strong>Address</strong><br>13381 SW 27th St&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Miami, Fl 33175<br><br><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contact Me</span><br><br>Email: crodriguez@miamiartsstudio.com<br>\nPhone: 786-659-2078<br><br></p>",
-          "text2": "",
+          "text1": "<p><strong>Address</strong><br>13381 Sw 27th St<br>Miami, FL 33175<br><br>\n<strong>Contact</strong>&nbsp;<strong>Me</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Email: crodriguez@miamiartsstudio.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone:(786)-659-2078</span><br></p><p><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>Refrences</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "crodriguez@miamiartsstudio.com",
@@ -1726,37 +1696,47 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "footer1",
+          "_anchor": "footer1-2e",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) Christian Rodriguez 2017"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "contacts4",
           "_styles": {
-            "SPAN": {
-              "color": "#ffffff"
-            },
             "STRONG": {
               "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff",
-              "font-size": "14px",
-              "text-align": "left",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
-          "_anchor": "contacts4-2d",
+          "_anchor": "contacts4-3b",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/916b6403c73fcce52ba14d079a14d018-2000x1500.jpg",
-            "bgColor": "#101010",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.7",
             "overlayColor": "#000000"
           },
-          "text1": "<p><strong>Address</strong><br>13381 SW 27th St&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Miami, Fl 33175<br><br><span style=\"color: rgb(124, 124, 124); font-family: Montserrat, sans-serif; font-size: 1rem; font-weight: 700; letter-spacing: -1px; line-height: 1.3;\">Contact Me</span><br><br>Email: crodriguez@miamiartsstudio.com<br>\nPhone: 786-659-2078<br><br></p>",
-          "text2": "",
+          "text1": "<p><strong>Address</strong><br>13381 Sw 27th St<br>Miami, FL 33175<br><br>\n<strong>Contact</strong>&nbsp;<strong>Me</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Email: crodriguez@miamiartsstudio.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone:(786)-659-2078</span><br></p><p><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>Refrences</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "crodriguez@miamiartsstudio.com",
@@ -1786,26 +1766,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-2e",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) Christian Rodriguez 2017"
         }
       ]
     }
