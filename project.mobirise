@@ -2,7 +2,7 @@
   "settings": {
     "currentPage": "index.html",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 122,
+    "uniqCompNum": 123,
     "versionPublish": "3.11.1",
     "name": "My Site",
     "theme": {
@@ -83,7 +83,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#b8312f!important"
+              "color": "#475577!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -167,6 +167,65 @@
           "title": "Christian A. Rodriguez",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-3e",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": false,
+            "twitter": false,
+            "google": false,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2n",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/aa9119521246a38953841210c715f627-2000x1334.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#000000",
+            "showTitle": false,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "ARTICLE HEADER",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"#\" data-toolbar=\"-mbrBtnMove\">INTRODUCTION TO ME</a>"
         },
         {
           "_styles": {
@@ -255,40 +314,6 @@
           "allItem": "All"
         },
         {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-2n",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aa9119521246a38953841210c715f627-2000x1334.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#000000",
-            "showTitle": false,
-            "showText": false,
-            "showButton": true
-          },
-          "title": "ARTICLE HEADER",
-          "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"#\" data-toolbar=\"-mbrBtnMove\">INTRODUCTION TO ME</a>"
-        },
-        {
           "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -304,7 +329,7 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-32",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
@@ -388,7 +413,7 @@
           },
           "_anchor": "contacts4-3b",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
@@ -1059,7 +1084,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#b8312f!important"
+              "color": "#475577!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1205,9 +1230,10 @@
               "name": "briefcase",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title1": "Business",
@@ -1221,9 +1247,10 @@
               "name": "toolbox",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title2": "FIU Graduate",
@@ -1237,9 +1264,10 @@
               "name": "desktop",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title3": "Animator",
@@ -1253,9 +1281,10 @@
               "name": "lightbulb",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title4": "Teacher",
@@ -1393,7 +1422,7 @@
           },
           "_anchor": "contacts4-3b",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": true,
             "parallax": true,
