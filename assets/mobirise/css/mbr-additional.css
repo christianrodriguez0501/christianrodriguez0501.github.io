@@ -492,16 +492,16 @@ h6,
 #header1-2q .mbr-section-title {
   color: #ffffff;
 }
-#msg-box8-2n .mbr-section-title,
-#msg-box8-2n p {
-  color: #fff;
-}
 #header3-2y .mbr-section-title,
 #header3-2y .mbr-section-subtitle {
   text-align: center;
 }
 #header3-2y H3 {
   color: #ffffff;
+}
+#msg-box8-2n .mbr-section-title,
+#msg-box8-2n p {
+  color: #fff;
 }
 #social-buttons4-32 .mbr-section-title,
 #social-buttons4-32 .btn-social {
@@ -751,10 +751,10 @@ h6,
   color: #fff;
 }
 #content5-22 P {
-  color: #000000;
+  color: #ffffff;
 }
 #content5-22 .mbr-section-title {
-  color: #000000;
+  color: #ffffff;
 }
 #features4-1d .card-subtitle {
   color: #bcbcbc;
