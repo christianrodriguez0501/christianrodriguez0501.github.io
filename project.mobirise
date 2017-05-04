@@ -10,11 +10,11 @@
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#475577",
-        "secondaryColor": "#7e9b9f",
-        "successColor": "#7e9b9f",
+        "secondaryColor": "#f3c649",
+        "successColor": "#3d8eb9",
         "infoColor": "#7e9b9f",
-        "warningColor": "#7e9b9f",
-        "dangerColor": "#7e9b9f",
+        "warningColor": "#000000",
+        "dangerColor": "#ffffff",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -166,7 +166,7 @@
           },
           "title": "Christian A. Rodriguez",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"introduction.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> "
         },
         {
           "_tags": [
@@ -225,7 +225,7 @@
           },
           "title": "ARTICLE HEADER",
           "text": "<p>Article header with background image and parallax effect.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"#\" data-toolbar=\"-mbrBtnMove\">INTRODUCTION TO ME</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"#\" data-toolbar=\"-mbrBtnMove\">INTRODUCTION TO ME</a>"
         },
         {
           "_styles": {
@@ -421,11 +421,11 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000000"
           },
           "text1": "<p><strong>Address</strong><br>13381 Sw 27th St<br>Miami, FL 33175<br><br>\n<strong>Contact</strong>&nbsp;<strong>Me</strong></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email:&nbsp;</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">crodriguez@miamiartsstudio.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: (786)-659-2078</span><br></p><p><br></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>Refrences</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>References</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "crodriguez@miamiartsstudio.com",
@@ -454,7 +454,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
         }
       ]
     },
@@ -511,7 +511,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#b8312f!important"
+              "color": "#475577!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -708,11 +708,11 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000000"
           },
           "text1": "<p><strong>Address</strong><br>13381 Sw 27th St<br>Miami, FL 33175<br><br>\n<strong>Contact</strong>&nbsp;<strong>Me</strong></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email:&nbsp;</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">crodriguez@miamiartsstudio.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: (786)-659-2078</span><br></p><p><br></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>Refrences</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>References</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "crodriguez@miamiartsstudio.com",
@@ -741,7 +741,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
         }
       ]
     },
@@ -798,7 +798,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#b8312f!important"
+              "color": "#475577!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -991,11 +991,11 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000000"
           },
           "text1": "<p><strong>Address</strong><br>13381 Sw 27th St<br>Miami, FL 33175<br><br>\n<strong>Contact</strong>&nbsp;<strong>Me</strong></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email:&nbsp;</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">crodriguez@miamiartsstudio.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: (786)-659-2078</span><br></p><p><br></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>Refrences</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>References</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "crodriguez@miamiartsstudio.com",
@@ -1024,7 +1024,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
         }
       ]
     },
@@ -1430,11 +1430,11 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000000"
           },
           "text1": "<p><strong>Address</strong><br>13381 Sw 27th St<br>Miami, FL 33175<br><br>\n<strong>Contact</strong>&nbsp;<strong>Me</strong></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email:&nbsp;</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">crodriguez@miamiartsstudio.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: (786)-659-2078</span><br></p><p><br></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>Refrences</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>References</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "crodriguez@miamiartsstudio.com",
@@ -1463,7 +1463,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
         }
       ]
     },
@@ -1520,7 +1520,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#b8312f!important"
+              "color": "#475577!important"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
               "background": "#2c2c2c"
@@ -1802,11 +1802,11 @@
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000000"
           },
           "text1": "<p><strong>Address</strong><br>13381 Sw 27th St<br>Miami, FL 33175<br><br>\n<strong>Contact</strong>&nbsp;<strong>Me</strong></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Email:&nbsp;</span><span style=\"font-size: 0.875rem; line-height: 1.5;\">crodriguez@miamiartsstudio.com &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 0.875rem; line-height: 1.5;\">Phone: (786)-659-2078</span><br></p><p><br></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>Refrences</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li>Introduction</li><li>Photoshop</li><li>Illustrator</li><li>Credentials</li><li>References</li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "crodriguez@miamiartsstudio.com",
@@ -1835,7 +1835,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-info\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Contact Me</a>"
         }
       ]
     }
